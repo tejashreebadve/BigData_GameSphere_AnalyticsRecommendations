@@ -1,3 +1,4 @@
+GameSphere: Smart Gaming Analytics & Recommendations
 Please follow the numbered sequence of the main source code files for proper execution flow:
 
 1_DataCleaning_EDA.ipynb
